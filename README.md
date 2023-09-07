@@ -22,4 +22,4 @@ Just enter the number for the agent and as soon as the program sees the agent it
 
 If you have any problems hold '#' and the program will close.
 
-![Screenshot 2023-09-07 193619](https://github.com/Phoenixfirst22/Valorant-instalock/assets/104783897/8570c8e0-60ea-4f79-aeea-bd91183d1ff6)
+![Screenshot 2023-09-07 193619](https://github.com/Phoenixfirst22/Valorant-instalock/assets/104783897/6b7bbf73-311c-4e15-b441-5c73cffe10d0)
