@@ -1,5 +1,5 @@
 # Valorant-instalock
-Instalock your your favorite agent!
+Instalock your favorite agent!
 
 # How to install: 
 open requirements.bat or do it manually:
